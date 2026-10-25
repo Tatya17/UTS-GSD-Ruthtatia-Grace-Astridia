@@ -13,7 +13,7 @@ Repository ini berisi selengkapnya pengerjaan **Ujian Tengah Semester (UTS) Graf
 * README.md
   File dokumentasi utama yang menjelaskan gambaran umum proyek, alur pengerjaan, skema database, pemodelan sistem rekomendasi, serta petunjuk penggunaan repository.
 * UTS_Ruthtatia Grace.ipynbNotebook Jupyter utama yang berisi seluruh kode program Python, perintah kueri Cypher SQL, output eksekusi, grafik visualisasi NetworkX, serta narasi penjelasan ilmiah dari Soal Nomor 1 hingga Soal Nomor 8 dan bagian Analytics (KNN & Evaluasi Metrik).
-* events_filtered.zip
+* event_filtered.zip
   Berkas terkompresi yang berisi dataset events_filtered.csv hasil penyaringan berdasarkan rentang waktu UNIX timestamp untuk periode Training (P1: 20 Mei 2015 - 20 Juni 2015) dan Testing (P2: 21 Juli 2015 - 31 Agustus 2015).
 * requirements.txt
   Berisi daftar pustaka (dependencies/libraries) Python yang dibutuhkan untuk menjalankan eksperimen pada notebook (seperti pandas, numpy, scipy, scikit-learn, neo4j, networkx, matplotlib, dan tqdm).
